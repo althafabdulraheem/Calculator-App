@@ -1,2 +1,2 @@
 # Calculator-App
-A simple calculator app using react native
+A simple calculator expo app using react native
